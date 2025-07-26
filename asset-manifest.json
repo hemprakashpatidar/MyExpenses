@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/MyExpense/static/js/main.cdd50682.js",
-    "index.html": "/MyExpense/index.html",
-    "main.cdd50682.js.map": "/MyExpense/static/js/main.cdd50682.js.map"
+    "main.js": "/MyExpenses/static/js/main.cdd50682.js",
+    "index.html": "/MyExpenses/index.html",
+    "main.cdd50682.js.map": "/MyExpenses/static/js/main.cdd50682.js.map"
   },
   "entrypoints": [
     "static/js/main.cdd50682.js"
