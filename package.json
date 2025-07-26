@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hemprakashpatidar.github.io/ExpenseViewer",
+  "homepage": "https://hemprakashpatidar.github.io/MyExpense",
   "type": "module",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
